@@ -36,7 +36,7 @@
     "image": "taskify",
     "category": "#",
     "links": {
-      "view": "#",
+      "view": "https://github.com/Kamaljeet-01/Taskify",
       "code": "https://github.com/Kamaljeet-01/Taskify"
     }
   },
@@ -46,7 +46,7 @@
     "image": "game",
     "category": "#",
     "links": {
-      "view": "#",
+      "view": "https://github.com/Kamaljeet-01/SnakeGame",
       "code": "https://github.com/Kamaljeet-01/SnakeGame"
     }
   }
@@ -58,8 +58,8 @@
     "image": "image",
     "category": "#",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://github.com/Kamaljeet-01/SnakeGame",
+      "code": "https://github.com/Kamaljeet-01/SnakeGame"
     }
   }
 
